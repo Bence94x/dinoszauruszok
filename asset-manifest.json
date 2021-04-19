@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dinoszauruszok/static/css/main.a96d9a1b.chunk.css",
+    "main.js": "/dinoszauruszok/static/js/main.8d753d13.chunk.js",
+    "main.js.map": "/dinoszauruszok/static/js/main.8d753d13.chunk.js.map",
+    "runtime-main.js": "/dinoszauruszok/static/js/runtime-main.02e3bd70.js",
+    "runtime-main.js.map": "/dinoszauruszok/static/js/runtime-main.02e3bd70.js.map",
+    "static/js/2.1bb252f7.chunk.js": "/dinoszauruszok/static/js/2.1bb252f7.chunk.js",
+    "static/js/2.1bb252f7.chunk.js.map": "/dinoszauruszok/static/js/2.1bb252f7.chunk.js.map",
+    "index.html": "/dinoszauruszok/index.html",
+    "static/css/main.a96d9a1b.chunk.css.map": "/dinoszauruszok/static/css/main.a96d9a1b.chunk.css.map",
+    "static/js/2.1bb252f7.chunk.js.LICENSE.txt": "/dinoszauruszok/static/js/2.1bb252f7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02e3bd70.js",
+    "static/js/2.1bb252f7.chunk.js",
+    "static/css/main.a96d9a1b.chunk.css",
+    "static/js/main.8d753d13.chunk.js"
+  ]
+}
